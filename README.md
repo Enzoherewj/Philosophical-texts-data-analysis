@@ -2,14 +2,14 @@
 ## Spring 2023
 ## Project 1: A "data story" on the history of philosophy
 
-<img src="figs/100126-the-glass.jpeg" width="500">
+<img src="figs/The_School_of_Athens__by_Raffaello_Sanzio_da_Urbino.jpeg" width="500">
 
 ### [Project Description](doc/)
 This is the first and only *individual* (as opposed to *team*) project this semester. 
 
 Term: Spring 2023
 
-+ Projec title: Lorem ipsum dolor sit amet
++ Projec title: Sentiment Analysisi on Philosophical Text
 + This project is conducted by Weijie Xia
 
 + Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
