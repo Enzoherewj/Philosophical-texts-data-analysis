@@ -3,5 +3,4 @@ seaborn
 matplotlib
 nltk
 gensim
-ast
 wordcloud
