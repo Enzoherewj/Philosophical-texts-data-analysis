@@ -26,3 +26,5 @@ proj/
 ```
 
 Please see each subfolder for a README file.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Enzoherewj/Philosophical-texts-data-analysis/main?labpath=doc%2Fproject_1.ipynb)
